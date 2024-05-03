@@ -6,3 +6,5 @@ Install required packages:
 Copy `.vimrc` to ~/
 
 Copy alacritty.toml to ~/.config/alacritty
+
+Install LSP servers and modify paths in `~/.vimrc`
