@@ -36,6 +36,7 @@ let mapleader=" "
 " Display buffers and LSP diag
 nnoremap <Leader>b :ls<CR>:b<Space>
 nnoremap <Leader>d :LspDiag show<CR>
+map <C-t> :NERDTreeToggle<CR>
 
 " Disable arrow keys
 cnoremap <Down> <Nop>
